@@ -36,7 +36,7 @@ Time spent: **3** hours spent in total
 
 ## GIF created with ScreenToGif
 
-![]()
+![](https://github.com/Fobat76/Veni-Vici/blob/main/Demo.gif)
 
 ### Describe any challenges encountered while building the app.
 
